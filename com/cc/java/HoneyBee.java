@@ -4,11 +4,11 @@ public class HoneyBee {
 
 
     public String doYourJob() {
-        return "I'm a Honeybee!";
+        return "Ich bin eine Honigbiene!";
     }
 
     public String fly() {
-        return "I can fly!";
+        return "Ich kann fliegen!";
     }
 
 
